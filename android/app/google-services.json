@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000538599408",
+    "project_id": "ecomdemo-853c7",
+    "storage_bucket": "ecomdemo-853c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000538599408:android:9bb620a2492243e999b735",
+        "android_client_info": {
+          "package_name": "ecom.bakutpay.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000538599408-igtk8498blo4hco071o3jsivknhoftoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgEdPU5GN9LPoyAd83nvab82Mue8hDNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000538599408-igtk8498blo4hco071o3jsivknhoftoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
